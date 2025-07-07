@@ -1,18 +1,8 @@
 # Hi 👋, I'm Tanishq Raj Swami  
-### A growing backend developer.
+### Full-Stack Developer.
 
 - 👨‍💻 All of my projects are available at: [github.com/TanishqSwami03](https://github.com/TanishqSwami03)  
 - 📫 Reach me at: **tanishqrajswami@gmail.com**
-
----
-
-### 🧩 Projects
-
-- **Blog Platform** – A Django-based blog app with user authentication and admin panel  
-- **API for Weather Data** – REST API using Django REST Framework with third-party API integration  
-- **Task Manager** – Backend service built with Python and MySQL to manage user tasks  
-- **E-commerce Backend** – Designed with Django, MySQL, and JWT auth  
-- **Portfolio Site** – Personal static site built with TailwindCSS and deployed on GitHub Pages  
 
 ---
 
@@ -24,12 +14,12 @@
 
 ### 🛠 Languages & Tools
 
-- Python, Django, Django REST Framework  
-- MySQL, SQLite  
-- Git, GitHub  
-- Java (Basics)  
-- Firebase  
-- Bootstrap, TailwindCSS  
+- React                      - TailwindCSS
+- Firebase                   - Supabase 
+- Python                     - Django  
+- Java                       - Django REST Framework  
+- MySQL                      - Git & GitHub  
+- SQLite                     - Bootstrap   
 
 ---
 
