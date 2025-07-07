@@ -1,45 +1,39 @@
-<h1 align="center">Hi 👋, I'm Tanishq Raj Swami</h1>
-<h3 align="center">A growing backend developer.</h3>
+# Hi 👋, I'm Tanishq Raj Swami  
+### A growing backend developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TanishqSwami03](https://github.com/TanishqSwami03)
+- 👨‍💻 All of my projects are available at: [github.com/TanishqSwami03](https://github.com/TanishqSwami03)  
+- 📫 Reach me at: **tanishqrajswami@gmail.com**
 
-- 📫 How to reach me **tanishqrajswami@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/tanishqrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanishqrs" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/tanishq-raj-swami" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-raj-swami" height="30" width="40" />
-</a>
+### 🧩 Projects
 
-</p>
+- **Blog Platform** – A Django-based blog app with user authentication and admin panel  
+- **API for Weather Data** – REST API using Django REST Framework with third-party API integration  
+- **Task Manager** – Backend service built with Python and MySQL to manage user tasks  
+- **E-commerce Backend** – Designed with Django, MySQL, and JWT auth  
+- **Portfolio Site** – Personal static site built with TailwindCSS and deployed on GitHub Pages  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqswami03&show_icons=true&locale=en&layout=compact" alt="tanishqswami03" /></p>
+### 📫 Connect with Me
+
+- [LinkedIn: Tanishq Raj Swami](https://linkedin.com/in/tanishq-raj-swami)
+
+---
+
+### 🛠 Languages & Tools
+
+- Python, Django, Django REST Framework  
+- MySQL, SQLite  
+- Git, GitHub  
+- Java (Basics)  
+- Firebase  
+- Bootstrap, TailwindCSS  
+
+---
+
+<!-- Optional GitHub stats -->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tanishqswami03&show_icons=true&locale=en&layout=compact)
+-->
