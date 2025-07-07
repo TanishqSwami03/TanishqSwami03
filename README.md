@@ -16,6 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png" alt="Firebase" width="40" height="40"/> 
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40"/> 
   </a> 
