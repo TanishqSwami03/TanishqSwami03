@@ -14,12 +14,18 @@
 
 ### 🛠 Languages & Tools
 
-- React                      - TailwindCSS
-- Firebase                   - Supabase 
-- Python                     - Django  
-- Java                       - Django REST Framework  
-- MySQL                      - Git & GitHub  
-- SQLite                     - Bootstrap   
+- React
+- TailwindCSS
+- Firebase
+- Supabase 
+- Python
+- Django  
+- Django REST Framework  
+- Java
+- MySQL
+- Git & GitHub  
+- SQLite
+- Bootstrap   
 
 ---
 
