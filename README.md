@@ -14,6 +14,7 @@
 
 ### 🛠 Languages & Tools
 
+- Azure
 - React
 - TailwindCSS
 - Firebase
